@@ -1,0 +1,15 @@
+body{
+  text-align: center;
+}
+
+#field{
+  margin: 50px;
+  border-top: double;
+  padding: 50px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.card{
+  width: 85px;
+  margin: 5px;
+}
